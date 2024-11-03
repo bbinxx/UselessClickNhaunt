@@ -32,13 +32,8 @@ For Software:
 - HTML, Javascript,CSS
 
 
-### Implementation
-For Software:
-# Installation
-Run locally 
-
 # Run
-[commands]
+https://bbinxx.github.io/UselessClickNhaunt/
 
 ### Project Documentation
 For Software:
@@ -49,15 +44,6 @@ For Software:
 
 ![Screenshot2](https://github.com/bbinxx/UselessClickNhaunt/blob/master/piano.png?raw=true)
 
-
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Bibin - logic
