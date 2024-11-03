@@ -26,10 +26,19 @@ First, there's the elusive click button—a floating, uncatchable button that se
 
 We’re solving it by throwing predictability out the window! With Elusive Click & Phantom Keys, we’ve created a world where buttons refuse to be clicked and pianos play themselves—hauntingly, of course.
 
+### Project Demo
+# Video
+
+https://github.com/user-attachments/assets/e45f39c4-7a7e-4f1f-825e-b3fb8c1737cb
+
+
+*Explain what the video demonstrates*
+
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - HTML, Javascript,CSS
+
 
 
 # Run
