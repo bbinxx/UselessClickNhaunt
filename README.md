@@ -43,16 +43,14 @@ Run locally
 ### Project Documentation
 For Software:
 
+
+![Screenshot1](https://github.com/bbinxx/UselessClickNhaunt/blob/master/image.png?raw=true)
+*Add caption explaining what this shows*
+
 # Screenshots (Add at least 3)
-![Screenshot1](https://github.com/bbinxx/UselessClickNhaunt/blob/master/piano.png?raw=true)
+![Screenshot2](https://github.com/bbinxx/UselessClickNhaunt/blob/master/piano.png?raw=true)
 
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 ### Project Demo
 # Video
