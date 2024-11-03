@@ -1,0 +1,91 @@
+body {
+            margin: 0;
+            overflow: hidden;
+            font-family: 'Courier New', monospace;
+            background-color: #121212;
+            color: #fff;
+            user-select: none;
+        }
+
+        .floating-div {
+            position: absolute;
+            width: 150px;
+            height: 70px;
+            background-color: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.1s linear;
+            font-size: 20px;
+        }
+
+        #timer {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 100px;
+            background-color: rgba(0, 0, 0, 0);
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        button {
+            background-color: #ff5733;
+            color: #fff;
+            height: 100%;
+            width: 100%;
+            border: none;
+            border-radius: 5px;
+            padding: 15px;
+            cursor: pointer;
+            font-size: 18px;
+        }
+
+        button:hover {
+            background-color: #ff2e00;
+        }
+
+        .mocking-dialogue {
+            position: absolute;
+            color: #ffcc00;
+            font-size: 16px;
+            white-space: nowrap;
+            transition: opacity 0.5s ease;
+            pointer-events: none;
+        }
+
+        @keyframes cube {
+            from {
+                transform: scale(0) rotate(0deg) translate(-50%, -50%);
+                opacity: 1;
+            }
+            to {
+                transform: scale(20) rotate(960deg) translate(-50%, -50%);
+                opacity: 0;
+            }
+        }
+
+        .background {
+            position: fixed;
+            width: 100vw;
+            height: 100vh;
+            top: 0;
+            left: 0;
+            background: #c2004e;
+            overflow: hidden;
+        }
+
+        .background li {
+            position: absolute;
+            top: 80vh;
+            left: 45vw;
+            width: 10px;
+            height: 10px;
+            border: solid 1px #ae0046;
+            color: transparent;
+            transform-origin: top left;
+            transform: scale(0) rotate(0deg) translate(-50%, -50%);
+            animation: cube 7s ease-in forwards infinite;
+        }
