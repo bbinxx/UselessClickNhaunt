@@ -47,7 +47,6 @@ For Software:
 ![Screenshot1](https://github.com/bbinxx/UselessClickNhaunt/blob/master/image.png?raw=true)
 *Add caption explaining what this shows*
 
-# Screenshots (Add at least 3)
 ![Screenshot2](https://github.com/bbinxx/UselessClickNhaunt/blob/master/piano.png?raw=true)
 
 
